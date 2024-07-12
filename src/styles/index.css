@@ -10,3 +10,36 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.footer {
+    background-color: gray;
+    height: 40px;
+    font-size: 27px;
+}
+
+.song {
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.song:hover {
+    background-color: darkgray;
+}
+
+.number {
+    margin-left: 10px;
+    margin-right: 20px;
+    width: 35px;
+}
+
+.name {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.height {
+    height: 40px;
+}
